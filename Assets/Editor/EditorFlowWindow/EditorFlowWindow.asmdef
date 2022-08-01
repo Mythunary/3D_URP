@@ -1,0 +1,18 @@
+{
+    "name": "EditorFlowWindow",
+    "rootNamespace": "",
+    "references": [
+        "GUID:385e294ec4da0e54e893829cc9f4aade",
+        "GUID:ad3bc9d047cd5d54a97aea0a40bbb484",
+        "GUID:1772c1ba46ebd0f4ab7757704b003e1d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
